@@ -1,0 +1,14 @@
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\bin\Debug\net9.0\Multithreads.exe
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\bin\Debug\net9.0\Multithreads.deps.json
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\bin\Debug\net9.0\Multithreads.runtimeconfig.json
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\bin\Debug\net9.0\Multithreads.dll
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\bin\Debug\net9.0\Multithreads.pdb
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\obj\Debug\net9.0\Multithreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\obj\Debug\net9.0\Multithreads.AssemblyInfoInputs.cache
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\obj\Debug\net9.0\Multithreads.AssemblyInfo.cs
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\obj\Debug\net9.0\Multithreads.csproj.CoreCompileInputs.cache
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\obj\Debug\net9.0\Multithreads.dll
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\obj\Debug\net9.0\refint\Multithreads.dll
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\obj\Debug\net9.0\Multithreads.pdb
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\obj\Debug\net9.0\Multithreads.genruntimeconfig.cache
+C:\Users\dieguinho compiuter\source\repos\Multithreads\Multithreads\obj\Debug\net9.0\ref\Multithreads.dll
