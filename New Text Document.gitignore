@@ -1,0 +1,20 @@
+# Pastas de compilação
+bin/
+obj/
+
+# Pastas do Visual Studio
+.vs/
+
+# Arquivos do usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Executáveis e DLLs
+*.exe
+*.dll
+
+# Pacotes NuGet
+*.nupkg
+*.snk
